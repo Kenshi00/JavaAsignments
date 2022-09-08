@@ -1,5 +1,5 @@
 package java_final;
-// for commits
+// third commits
 import java.util.Arrays;
 
 public class final_6 {
